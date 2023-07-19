@@ -4,7 +4,7 @@
 
 ![Alt text](baly.png)
 
-https://thesko27.github.io/Responsive-Baly-energy-website/git
+https://thesko27.github.io/Responsive-Baly-energy-website/
 
 -   Responsive design of the Baly energy website using HTML, CSS and JavaScript
 -   Contains CSS and GSAP animations.
